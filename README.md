@@ -59,6 +59,8 @@ height="120px"></a>
 height="120px"></a>
    <a href="https://www.newtontrust.cam.ac.uk/"><img src="https://www.newtontrust.cam.ac.uk/sites/www.newtontrust.cam.ac.uk/files/styles/leading/public/images/INTmarksmall.png?itok=tNSe1-Sw"
 height="120px"></a>
+src="https://blanceflor.se/wp-content/uploads/elementor/thumbs/headerbild3-2-ov9zg388w53fr0bio1u3x7q174hfz50fvq8rzoncwy.png"
+height="120px"></a>
    <a href="http://w3.lnf.infn.it/"><img src="https://www.trust-itservices.com/sites/default/files/images/logo/INFN2.png"
 height="120px"></a>
    <a href="https://erc.europa.eu/"><img src="https://erc.europa.eu/sites/default/files/LOGO_ERC.jpg"
